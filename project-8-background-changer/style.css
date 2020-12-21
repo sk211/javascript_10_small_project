@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    
+    }
+    body{
+        background:#f4f4f4;
+        color:white;
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        font-family: "RobotoP", sans-serif;
+        margin:0;
+        min-height: 100vh;
+        font-size:20px; 
+    }
+button{
+    background-color:cornflowerblue;
+    color:white;
+    padding: 1rem;
+    font-family: inherit;
+    box-shadow:2px 2px 4px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    border:none;
+
+}
+button.fo{
+    border:none;
+}
